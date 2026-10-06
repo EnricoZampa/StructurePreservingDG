@@ -189,7 +189,7 @@ elif ictype == 5:
              0.5*rho0**2*ny_hat)).Compile()
 
     smax = 1
-    epsilon_factor = 1 * order
+    epsilon_factor = 2
     scaleFactor = 2 * pi
     Ctime = 0.5 / (2 * pi)
 
