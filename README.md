@@ -5,7 +5,7 @@
 Code accompanying the paper
 
   M. Dumbser, I. Perugia and E. Zampa,
-  "An arbitrarily high-order locally energy/entropy-stable space-time method for a class of nonlinear wave systems".
+  "An arbitrarily high-order and locally energy/entropy-stable space-time method for a class of nonlinear wave systems".
 
 Author of the code: Enrico Zampa
 
@@ -150,8 +150,8 @@ not the adiabatic exponent.
 
 If you use this code, please cite the paper:
 
-  M. Dumbser, I. Perugia and E. Zampa, "An arbitrarily high-order accurate fully
-  discrete and locally energy/entropy-stable space-time method for a class of
+  M. Dumbser, I. Perugia and E. Zampa, "An arbitrarily high-order accurate and
+  locally energy/entropy-stable space-time method for a class of
   nonlinear wave systems".
 
 
